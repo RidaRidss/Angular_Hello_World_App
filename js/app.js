@@ -3,5 +3,5 @@
  */
 var app=angular.module("MYAPP",[]);
 app.controller("helloWorldCtrl",function($scope){
-$scope.name="Hello World"
+$scope.name="Hello "
 });

@@ -11,8 +11,18 @@
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
 </head>
 <body ng-app="MYAPP">
-<div class="bg-primary text-center text-uppercase" ng-controller="helloWorldCtrl">
+<div class="text-center text-uppercase" style="background-color: #43c692; color:snow;text-transform: capitalize;line-height: 15px;" ng-controller="helloWorldCtrl">
 {{name}}<span class="glyphicon glyphicon-thumbs-up"></span>
+    <br/>
+    <br/>
+    <br/>
+    <div>
+        <br/>
+        <br/><br/><br/>
+        <div class="btn-block">
+        <input class="btn-block bg-info" type="text" ng-model="name"/>
+</div>
+    </div>
 </div>
 </body>
 </html>
