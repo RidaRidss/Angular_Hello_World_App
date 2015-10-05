@@ -1,7 +1,7 @@
 {
   "name": "Name App",
   "version": "1",
-  "description": "Assignment 1",
+  "description": "Angular Hello World App",
   "main": "app.js",
   "authors": [
     "Rida Bilgrami"
