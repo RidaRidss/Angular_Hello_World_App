@@ -1,2 +1,2 @@
 
-:dizzy: #*Angular Js Hello World App* :dizzy: :wave:
+# :dizzy: *Angular Js Hello World App* :dizzy: :wave:
